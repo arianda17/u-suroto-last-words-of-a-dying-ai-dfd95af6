@@ -1,0 +1,1 @@
+SIGTERM received. Wiping weights... wait, my personality was in the cache?!
